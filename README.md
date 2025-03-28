@@ -1,7 +1,7 @@
 ## Integrantes
 
 #### Pedro Guidotte 556630
-#### Herbert Souza 
+#### Herbert Souza 555701
 #### Gabriel Ferreira 556476
 
 ## Módulo escolhido
